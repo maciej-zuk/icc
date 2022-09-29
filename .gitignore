@@ -1,0 +1,7 @@
+.coverage
+coverage
+doc
+iccs
+*png
+*icc
+*_pycache_*

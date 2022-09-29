@@ -1,0 +1,5 @@
+[run]
+omit = */test*
+
+[html]
+directory = coverage
